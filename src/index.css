@@ -1,0 +1,33 @@
+/* -------- RESET ----------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400&family=Poppins:wght@100;200;300;400&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-image: url('./images/back1.jpg');
+    background-size: cover;
+    margin-bottom: 20rem;
+}
+
+h1, h2, h3, h4, p, ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+button {
+    border: none;
+}
+
+input {
+    outline: none;
+}
